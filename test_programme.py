@@ -14,7 +14,7 @@ c = [14, 25, 32, 18, 16, 23, 10, 17, 18, 15]
 # Sample 4
 d = list(range(1, 21, 2))
 
-########### Defining samples ####################
+########### Defining samples ######################
 
 stats.summary(a)
 
